@@ -1,0 +1,13 @@
+pandas
+tqdm
+numpy
+matplotlib
+scikit-learn
+torch
+torchvision
+torchaudio
+torch-geometric
+
+# no module named torch error while install in mac
+# fix https://github.com/rusty1s/pytorch_scatter/issues/424#issuecomment-2294000468
+torch-sparse
